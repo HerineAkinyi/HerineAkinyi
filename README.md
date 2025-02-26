@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HerineAkinyi
+- 👋 Hi, I’m Herine Akinyi
 - 👀 I’m interested in learning all the programming language 
 - 🌱 I’m currently learning programming language like HTML
 - 💞️ I’m looking to collaborate on how to develop my skills on coding 
